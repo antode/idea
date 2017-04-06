@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1d8817b0-fb2a-4693-a2ce-befa1baa1122" name="driving-school" url="http://driving-school.loc/">
+        <fileTransfer host="driving-school.loc" port="22" rootFolder="/var/www/driving-school.loc" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

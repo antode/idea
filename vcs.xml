@@ -1,0 +1,32 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.krealab.ru:auto/driving_school_m.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.krealab.ru:auto/driving_school.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.krealab.ru:auto/auto3.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.krealab.ru:krealab-services/admin-skeleton-bundle.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.krealab.ru:stavrovski/pvart.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/proj/auto-online" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
+  </component>
+</application>
