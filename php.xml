@@ -9,14 +9,6 @@
       <PhpCSConfiguration />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="/usr/bin/php" id="f2342d60-0b4d-48f6-bba1-563b24961929" name="PHP 7" debugger_id="php.debugger.XDebug" />
-      <interpreter home="sftp://user@driving-school.loc:22/usr/bin/php" id="02a7c87f-903a-4768-98a1-830d55dd0535" name="Remote PHP 5.5" debugger_id="php.debugger.XDebug">
-        <remote_data WEB_SERVER_CONFIG_ID="1d8817b0-fb2a-4693-a2ce-befa1baa1122" WEB_SERVER_CONFIG_NAME="driving-school" HOST="driving-school.loc" PORT="22" USERNAME="user" PASSWORD="dfdb" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/user/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 5.5">
