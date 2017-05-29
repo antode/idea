@@ -4,6 +4,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="codecheck" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping pattern="CourseA.orm.yml" type="YAML" />
     </extensionMap>
   </component>
