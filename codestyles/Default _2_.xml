@@ -1,5 +1,6 @@
 <code_scheme name="Default (2)">
   <JSCodeStyleSettings>
+    <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
@@ -23,6 +24,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
