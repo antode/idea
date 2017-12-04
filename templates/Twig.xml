@@ -1,0 +1,5 @@
+<templateSet group="Twig">
+  <template name="verb" value="{% verbatim %}&#10;    $END$&#10;{% endverbatim %}" description="verbatim...endverbatim" toReformat="false" toShortenFQNames="false" deactivated="true">
+    <context />
+  </template>
+</templateSet>
