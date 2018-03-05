@@ -11,7 +11,7 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/bin/php" id="cd76bbf9-8122-45cf-ba92-2a579693d869" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/bin/php" id="e1ec7800-aefc-4d71-8cec-ef3d32a75a89" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -281,12 +281,8 @@
             <configuration_option name="xdebug.dump_undefined" value="0" />
             <configuration_option name="xdebug.extended_info" value="1" />
             <configuration_option name="xdebug.file_link_format" value="" />
-            <configuration_option name="xdebug.filename_format" value="" />
             <configuration_option name="xdebug.force_display_errors" value="0" />
             <configuration_option name="xdebug.force_error_reporting" value="0" />
-            <configuration_option name="xdebug.gc_stats_enable" value="0" />
-            <configuration_option name="xdebug.gc_stats_output_dir" value="/tmp" />
-            <configuration_option name="xdebug.gc_stats_output_name" value="gcstats.%p" />
             <configuration_option name="xdebug.halt_level" value="0" />
             <configuration_option name="xdebug.idekey" value="" />
             <configuration_option name="xdebug.max_nesting_level" value="256" />
@@ -294,7 +290,7 @@
             <configuration_option name="xdebug.overload_var_dump" value="2" />
             <configuration_option name="xdebug.profiler_aggregate" value="0" />
             <configuration_option name="xdebug.profiler_append" value="0" />
-            <configuration_option name="xdebug.profiler_enable" value="1" />
+            <configuration_option name="xdebug.profiler_enable" value="0" />
             <configuration_option name="xdebug.profiler_enable_trigger" value="0" />
             <configuration_option name="xdebug.profiler_enable_trigger_value" value="" />
             <configuration_option name="xdebug.profiler_output_dir" value="/tmp" />
@@ -309,7 +305,6 @@
             <configuration_option name="xdebug.remote_log" value="" />
             <configuration_option name="xdebug.remote_mode" value="req" />
             <configuration_option name="xdebug.remote_port" value="9000" />
-            <configuration_option name="xdebug.remote_timeout" value="200" />
             <configuration_option name="xdebug.scream" value="0" />
             <configuration_option name="xdebug.show_error_trace" value="0" />
             <configuration_option name="xdebug.show_exception_trace" value="0" />
@@ -337,7 +332,7 @@
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.6.0">
+            <debugger_info debugger="xdebug" debugger_version="2.5.3">
               <debug_extensions />
             </debugger_info>
           </debuggers>
