@@ -21,5 +21,9 @@
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="StopBackgroundProcesses" />
+  <action id="ToggleBookmark" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
   <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
