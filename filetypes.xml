@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="entrypoint" type="Bash" />
       <mapping pattern="project" type="Bash" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
