@@ -10,6 +10,7 @@
       <mapping pattern="for_group_162721799" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="codecheck" type="PLAIN_TEXT" />
+      <mapping pattern="php" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping pattern="CourseA.orm.yml" type="YAML" />
     </extensionMap>
