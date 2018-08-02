@@ -2,8 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".env.dist" type=".env file" />
-      <mapping pattern="entrypoint" type="Bash" />
-      <mapping pattern="project" type="Bash" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern="for_group_155964376" type="PLAIN_TEXT" />
@@ -11,8 +9,11 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="codecheck" type="PLAIN_TEXT" />
       <mapping pattern="php" type="PLAIN_TEXT" />
+      <mapping ext="bash" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping pattern="CourseA.orm.yml" type="YAML" />
+      <mapping pattern="entrypoint" type="Bash" />
+      <mapping pattern="project" type="Bash" />
     </extensionMap>
   </component>
 </application>
