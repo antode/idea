@@ -44,15 +44,7 @@
           <order>KEEP</order>
         </group>
       </groups>
-      <rules>
-        <section>
-          <rule>
-            <match>
-              <CONST>true</CONST>
-            </match>
-          </rule>
-        </section>
-      </rules>
+      <rules />
     </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="yaml">
