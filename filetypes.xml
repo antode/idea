@@ -13,6 +13,7 @@
       <mapping pattern="codecheck" type="PLAIN_TEXT" />
       <mapping pattern="php" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping pattern="CourseA.orm.yml" type="YAML" />
     </extensionMap>
   </component>
