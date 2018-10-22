@@ -6,6 +6,7 @@
       <mapping pattern="project" type="Bash" />
       <mapping pattern="project-jwt-gen" type="Bash" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="signed" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern="for_group_155964376" type="PLAIN_TEXT" />
       <mapping pattern="for_group_162721799" type="PLAIN_TEXT" />
