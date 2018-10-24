@@ -3,23 +3,14 @@
     <extensionMap>
       <mapping pattern=".env.dist" type=".env file" />
       <mapping pattern="entrypoint" type="Bash" />
-      <mapping pattern="project" type="Bash" />
       <mapping pattern="project-jwt-gen" type="Bash" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="8_questionnaire_type_deny" type="PLAIN_TEXT" />
-      <mapping pattern="signed" type="PLAIN_TEXT" />
-      <mapping pattern="asd" type="PLAIN_TEXT" />
-      <mapping pattern="for_group_155964376" type="PLAIN_TEXT" />
-      <mapping pattern="for_group_162721799" type="PLAIN_TEXT" />
-      <mapping pattern="docker-entrypoint-dev" type="PLAIN_TEXT" />
+      <mapping pattern="project" type="Bash" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="codecheck" type="PLAIN_TEXT" />
-      <mapping pattern="php" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="der" type="PLAIN_TEXT" />
       <mapping pattern="CourseA.orm.yml" type="YAML" />
     </extensionMap>
   </component>
