@@ -3,15 +3,16 @@
     <extensionMap>
       <mapping pattern=".env.dist" type=".env file" />
       <mapping pattern="entrypoint" type="Bash" />
-      <mapping pattern="project-jwt-gen" type="Bash" />
       <mapping pattern="project" type="Bash" />
+      <mapping pattern="project-jwt-gen" type="Bash" />
       <mapping pattern="Dockerfile.prod" type="Dockerfile" />
+      <mapping pattern="signed" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping pattern="CourseA.orm.yml" type="YAML" />
     </extensionMap>
   </component>
