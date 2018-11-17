@@ -2,12 +2,13 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".env.dist" type=".env file" />
-      <mapping pattern="entrypoint" type="Bash" />
       <mapping pattern="project" type="Bash" />
+      <mapping pattern="entrypoint" type="Bash" />
       <mapping pattern="project-jwt-gen" type="Bash" />
       <mapping pattern="Dockerfile.prod" type="Dockerfile" />
       <mapping pattern="signed" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="debug" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
