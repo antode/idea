@@ -5,6 +5,7 @@
       <mapping pattern="project" type="Bash" />
       <mapping pattern="entrypoint" type="Bash" />
       <mapping pattern="project-jwt-gen" type="Bash" />
+      <mapping pattern="docker-entrypoint" type="Bash" />
       <mapping pattern="Dockerfile.prod" type="Dockerfile" />
       <mapping pattern="signed" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
