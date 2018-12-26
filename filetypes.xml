@@ -8,6 +8,7 @@
       <mapping pattern="docker-entrypoint" type="Bash" />
       <mapping pattern="Dockerfile.prod" type="Dockerfile" />
       <mapping pattern="Dockerfile.dev" type="Dockerfile" />
+      <mapping pattern="Dockerfile.stage" type="Dockerfile" />
       <mapping pattern="signed" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="debug" type="PLAIN_TEXT" />
