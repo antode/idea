@@ -21,6 +21,11 @@
   <yaml>
     <option name="ALIGN_VALUES_PROPERTIES" value="1" />
   </yaml>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JSON">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
