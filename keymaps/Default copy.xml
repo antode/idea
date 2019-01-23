@@ -2,6 +2,10 @@
   <action id="ExpandDocComments">
     <keyboard-shortcut first-keystroke="shift ctrl multiply" second-keystroke="add" />
   </action>
+  <action id="Git.Menu">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
+  <action id="QuickChangeScheme" />
   <action id="ShowNavBar" />
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="alt home" />
