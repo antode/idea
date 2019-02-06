@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="compose-up-with-env" type="Bash" />
       <mapping pattern="Dockerfile.stage" type="Dockerfile" />
+      <mapping pattern="Dockerfile.dev.stage" type="Dockerfile" />
       <mapping pattern="Dockerfile.dev" type="Dockerfile" />
     </extensionMap>
   </component>
