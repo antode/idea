@@ -1,4 +1,8 @@
 <keymap version="1" name="Default copy" parent="Default for XWin">
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift alt u" />
   </action>
@@ -8,6 +12,7 @@
   <action id="Git.Menu">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
+  <action id="PreviousEditorTab" />
   <action id="QuickChangeScheme" />
   <action id="ShowNavBar" />
   <action id="SurroundWith">
