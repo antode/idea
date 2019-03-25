@@ -31,6 +31,7 @@
   </SqlCodeStyleSettings>
   <yaml>
     <option name="ALIGN_VALUES_PROPERTIES" value="1" />
+    <option name="INDENT_SEQUENCE_VALUE" value="false" />
   </yaml>
   <codeStyleSettings language="HTML">
     <indentOptions>
