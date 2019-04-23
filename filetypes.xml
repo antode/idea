@@ -4,6 +4,7 @@
       <mapping pattern="docker-entrypoint-dev-stage" type="Bash" />
       <mapping pattern="Dockerfile.15web" type="Dockerfile" />
       <mapping ext="prod" type="Dockerfile" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping pattern="project" type="Perl" />
     </extensionMap>
   </component>
