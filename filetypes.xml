@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="docker-entrypoint-dev-stage" type="Bash" />
       <mapping pattern="Dockerfile.15web" type="Dockerfile" />
+      <mapping pattern="Dockerfile.dev.stage" type="Dockerfile" />
       <mapping ext="prod" type="Dockerfile" />
       <mapping pattern="120_compatibility" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
