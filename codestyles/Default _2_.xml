@@ -1,10 +1,87 @@
 <code_scheme name="Default (2)" version="173">
+  <DB2CodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="SELECT_EL_LINE" value="101" />
+    <option name="SELECT_EL_COMMA" value="2" />
+    <option name="FROM_EL_LINE" value="1" />
+    <option name="FROM_EL_COMMA" value="2" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="WHERE_EL_LINE" value="1" />
+  </DB2CodeStyleSettings>
+  <DerbyCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="SELECT_EL_LINE" value="101" />
+    <option name="SELECT_EL_COMMA" value="2" />
+    <option name="FROM_EL_LINE" value="1" />
+    <option name="FROM_EL_COMMA" value="2" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="WHERE_EL_LINE" value="1" />
+  </DerbyCodeStyleSettings>
+  <H2CodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="SELECT_EL_LINE" value="101" />
+    <option name="SELECT_EL_COMMA" value="2" />
+    <option name="FROM_EL_LINE" value="1" />
+    <option name="FROM_EL_COMMA" value="2" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="WHERE_EL_LINE" value="1" />
+  </H2CodeStyleSettings>
+  <HSQLCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="SELECT_EL_LINE" value="101" />
+    <option name="SELECT_EL_COMMA" value="2" />
+    <option name="FROM_EL_LINE" value="1" />
+    <option name="FROM_EL_COMMA" value="2" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="WHERE_EL_LINE" value="1" />
+  </HSQLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
+  <MSSQLCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="SELECT_EL_LINE" value="101" />
+    <option name="SELECT_EL_COMMA" value="2" />
+    <option name="FROM_EL_LINE" value="1" />
+    <option name="FROM_EL_COMMA" value="2" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="WHERE_EL_LINE" value="1" />
+  </MSSQLCodeStyleSettings>
+  <MySQLCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="SELECT_EL_LINE" value="101" />
+    <option name="SELECT_EL_COMMA" value="2" />
+    <option name="FROM_EL_LINE" value="1" />
+    <option name="FROM_EL_COMMA" value="2" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="WHERE_EL_LINE" value="1" />
+  </MySQLCodeStyleSettings>
+  <OracleCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="SELECT_EL_LINE" value="101" />
+    <option name="SELECT_EL_COMMA" value="2" />
+    <option name="FROM_EL_LINE" value="1" />
+    <option name="FROM_EL_COMMA" value="2" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="WHERE_EL_LINE" value="1" />
+  </OracleCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_ASSIGNMENTS" value="true" />
@@ -18,6 +95,28 @@
     <option name="ALIGN_CLASS_CONSTANTS" value="true" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
+  <PostgresCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="SELECT_EL_LINE" value="101" />
+    <option name="SELECT_EL_COMMA" value="2" />
+    <option name="FROM_EL_LINE" value="1" />
+    <option name="FROM_EL_COMMA" value="2" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="WHERE_EL_LINE" value="1" />
+  </PostgresCodeStyleSettings>
+  <SQLiteCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="SELECT_EL_LINE" value="101" />
+    <option name="SELECT_EL_COMMA" value="2" />
+    <option name="FROM_EL_LINE" value="1" />
+    <option name="FROM_EL_COMMA" value="2" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="WHERE_EL_LINE" value="1" />
+  </SQLiteCodeStyleSettings>
   <SqlCodeStyleSettings version="2">
     <option name="KEYWORD_CASE" value="0" />
     <option name="IDENTIFIER_CASE" value="1" />
@@ -29,6 +128,17 @@
     <option name="FROM_INDENT_JOIN" value="false" />
     <option name="WHERE_EL_LINE" value="1" />
   </SqlCodeStyleSettings>
+  <SybaseCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="SELECT_EL_LINE" value="101" />
+    <option name="SELECT_EL_COMMA" value="2" />
+    <option name="FROM_EL_LINE" value="1" />
+    <option name="FROM_EL_COMMA" value="2" />
+    <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="WHERE_EL_LINE" value="1" />
+  </SybaseCodeStyleSettings>
   <yaml>
     <option name="ALIGN_VALUES_PROPERTIES" value="1" />
     <option name="INDENT_SEQUENCE_VALUE" value="false" />
@@ -36,11 +146,6 @@
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="JSON">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
