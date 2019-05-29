@@ -8,6 +8,7 @@
       <mapping pattern="120_compatibility" type="PLAIN_TEXT" />
       <mapping pattern="debug" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping pattern="project" type="Perl" />
     </extensionMap>
   </component>
