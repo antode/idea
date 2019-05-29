@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Other/Flip ','" />
+    <ignoreAction name="PHP/Replace with alias" />
   </component>
 </application>
