@@ -1,6 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="docker-entrypoint-remote" type="Bash" />
+      <mapping pattern="docker-entrypoint" type="Bash" />
+      <mapping pattern="docker-entrypoint-dev-stage" type="Bash" />
       <mapping pattern="Dockerfile.dev.stage" type="Dockerfile" />
       <mapping pattern="Dockerfile.15web" type="Dockerfile" />
       <mapping pattern="Dockerfile-remote" type="Dockerfile" />
@@ -26,9 +29,6 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="docker-entrypoint-remote" approved="true" type="Dockerfile" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping pattern="docker-entrypoint" type="Bash" />
-      <mapping pattern="docker-entrypoint-dev-stage" type="Bash" />
-      <mapping pattern="docker-entrypoint-remote" type="Bash" />
     </extensionMap>
   </component>
 </application>
