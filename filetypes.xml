@@ -4,6 +4,7 @@
       <mapping pattern="docker-entrypoint-remote" type="Bash" />
       <mapping pattern="docker-entrypoint" type="Bash" />
       <mapping pattern="docker-entrypoint-dev-stage" type="Bash" />
+      <mapping pattern="Dockerfile-dev" type="Dockerfile" />
       <mapping pattern="Dockerfile.dev.stage" type="Dockerfile" />
       <mapping pattern="Dockerfile.15web" type="Dockerfile" />
       <mapping pattern="Dockerfile-remote" type="Dockerfile" />
