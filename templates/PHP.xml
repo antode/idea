@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="&lt;methods&gt;" value="    //&lt;editor-fold desc=&quot;Methods&quot;&gt;&#10;    $SELECTION$&#10;    //&lt;/editor-fold&gt;" toReformat="true" toShortenFQNames="true">
+  <template name="&lt;methods&gt;" value="    //&lt;editor-fold desc=&quot;Methods&quot;&gt;&#10;    $SELECTION$&#10;    //&lt;/editor-fold&gt;" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
