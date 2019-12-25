@@ -43,6 +43,11 @@
     <option name="ALIGN_VALUES_PROPERTIES" value="1" />
     <option name="AUTOINSERT_SEQUENCE_MARKER" value="false" />
   </yaml>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
