@@ -1,8 +1,8 @@
 <code_scheme name="code_style" version="173">
   <HTMLCodeStyleSettings>
+    <option name="HTML_KEEP_WHITESPACES" value="true" />
     <option name="HTML_ATTRIBUTE_WRAP" value="4" />
     <option name="HTML_KEEP_BLANK_LINES" value="1" />
-    <option name="HTML_ALIGN_TEXT" value="true" />
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,script" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
@@ -42,6 +42,11 @@
     <option name="ALIGN_VALUES_PROPERTIES" value="1" />
     <option name="AUTOINSERT_SEQUENCE_MARKER" value="false" />
   </yaml>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
