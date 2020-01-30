@@ -6,8 +6,8 @@
       <mapping pattern="Dockerfile.dev.stage" type="Dockerfile" />
       <mapping pattern="Dockerfile-dev" type="Dockerfile" />
       <mapping ext="prod" type="Dockerfile" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="120_compatibility" type="PLAIN_TEXT" />
       <mapping pattern="debug" type="PLAIN_TEXT" />
       <mapping pattern=".env1" type="PLAIN_TEXT" />
